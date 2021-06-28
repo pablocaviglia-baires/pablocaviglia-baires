@@ -7,8 +7,6 @@ Xs go first, click one of the nine boxes to make your move.
 
 _If for some reason the buttons are not clickable, try reloading the page. Sometimes GitHub can't handle all the emojis._
 
-[Take me to the bottom](#bottom)
-
 ---
 <a name="root"></a><br/><br/><br/>
 [⬜](#11-22) [⬜](#12-11) [⬜](#13-22)<br/>[⬜](#21-11) [⬜](#22-11) [⬜](#23-13)<br/>[⬜](#31-22) [⬜](#32-12) [⬜](#33-22)<br/><br/><br/><br/>
